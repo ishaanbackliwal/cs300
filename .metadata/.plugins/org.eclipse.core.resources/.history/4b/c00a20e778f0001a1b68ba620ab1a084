@@ -1,0 +1,12 @@
+package dzhu;
+
+import java.util.Scanner;
+
+public class dzhu {
+
+  public static void main(String[] args) {
+    Scanner scnr = new Scanner(System.in);
+    
+  }
+
+}

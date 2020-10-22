@@ -1,0 +1,19 @@
+package dzhu;
+
+import java.util.Scanner;
+
+public class dzhu {
+
+  public static void main(String[] args) {
+//    Scanner scnr = new Scanner(System.in);
+//    System.out.println("Gimme a letter");
+//    char keyPress = scnr.next().charAt(0);
+//    System.out.println("Gimme a number");
+//    int numKeyPresses = scnr.nextInt();
+//    
+//    System.out.println("Press the " + keyPress + " key " + numKeyPresses + " times to quit");
+    System.out.println(2 + 4);
+    
+  }
+
+}
